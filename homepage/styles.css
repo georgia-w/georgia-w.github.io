@@ -1,0 +1,26 @@
+#FrontalVeselka {
+    width: 1000px;
+}
+
+p {
+    text-indent: 30px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+header {
+    font-weight: bold;
+    font-size: 15pt;
+
+}
+
+body {
+    text-align: center;
+    background-color: #e4b53b;
+    font-family: "Alegreya", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+}
